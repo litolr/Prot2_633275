@@ -1,0 +1,21 @@
+body {
+background-color: #eaf2e3;  
+color: #333;  
+font-family: Arial, sans-serif;  
+margin: 0;  
+padding: 0; 
+}
+h1 {
+    color: rgb(255, 196, 0);
+    text-align: center;
+}
+
+p {
+    font-size: 18px;
+    color: darkgray;
+}
+.textgrax {
+    text-align: center; /* Centrar el texto */
+    font-weight: bold; /* Poner en negrita */
+    font-style: italic; /* Poner en cursiva */
+}

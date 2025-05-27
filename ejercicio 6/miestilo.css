@@ -1,0 +1,95 @@
+/* Estilos generales */
+body {
+    background-color: #eaf2e3; /* Fondo claro */
+    color: #333; /* Color del texto */
+    font-family: Arial, sans-serif; /* Fuente predeterminada */
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilos para los encabezados */
+h1 {
+    color: rgb(255, 196, 0); /* Color amarillo */
+    text-align: center;
+}
+
+/* Estilos para los párrafos */
+p {
+    font-size: 18px;
+    color: darkgray;
+}
+
+/* Estilos para texto especial */
+.textgrax {
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+    color: #00ff22;
+}
+
+/* Estilos para el header */
+header {
+    background-color: #0671ebb0; /* Color de fondo */
+    color: #864a4a; /* Color del texto */
+    text-align: center;
+    padding: 20px;
+}
+
+/* Estilos para la sección */
+section {
+    padding: 20px;
+}
+
+/* Estilos para el footer */
+footer {
+    background-color: #4caf50; /* Color de fondo */
+    color: #fff; /* Texto en blanco */
+    padding: 20px 0;
+}
+
+.footer-content {
+    max-width: 800px; /* Ancho del contenido del footer */
+    margin: 0 auto; /* Centrado */
+}
+
+/* Estilos para el nav */
+nav {
+    background-color: #4caf50; /* Color verde */
+    padding: 10px;
+}
+
+/* Estilos para la lista dentro del nav */
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+/* Estilos para cada elemento de la lista */
+nav ul li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+/* Estilos para los enlaces dentro del nav */
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    padding: 8px 16px;
+    border-radius: 5px;
+}
+
+/* Efecto al pasar el cursor sobre los enlaces */
+nav ul li a:hover {
+    background-color: #2f8247;
+}
+
+/* Estilos para las imágenes */
+img {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    border: 3px solid #69bd45; /* Contorno verde */
+    border-radius: 10px; /* Bordes redondeados */
+}
