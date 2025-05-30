@@ -1,0 +1,21 @@
+
+
+.footer-content {
+    text-align: center; /* Alineación del texto a la derecha */
+    font-size: 14px; /* Tamaño de fuente */
+    width: 100%;
+    max-width: 800px; /* Ancho del contenido del footer */
+    margin: 0 auto; /* Centrado */
+}
+
+.social-icons {
+    display: flex;
+    justify-content: center; /* Centrado horizontal */
+    gap: 17px; /* Espacio entre iconos corregido */
+}
+.stylesheet {
+    font-size: 45px;
+    color: darkgray;
+    display: flex;
+    justify-content: center; /* Centrado horizontal */
+}
