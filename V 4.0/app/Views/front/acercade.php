@@ -20,7 +20,7 @@
   <div class="card-body">
     <h5 class="card-title">Encontranos en</h5>
     <p class="card-text">El procer argentino 2011.</p>
-    <a href="https://google.maps.com" class="btn btn-primary">ubicación</a>
+    <a href="https://maps.google.com" class="btn btn-primary">ubicación</a>
   </div>
 </div>
 <!--fin tarjetas-->
